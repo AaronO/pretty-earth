@@ -1,5 +1,7 @@
-pretty-earth
+Pretty Earth
 ============
+
+![Preview](./preview.jpg)
 
 Scripts to download beautiful images from google earth
 
