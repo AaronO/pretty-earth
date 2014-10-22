@@ -1,0 +1,21 @@
+{
+  "name": "pretty-earth",
+  "version": "0.0.0",
+  "description": "Fetcher for beautiful google earth images",
+  "main": "index.js",
+  "dependencies": {
+    "base64": "^2.1.0",
+    "request": "^2.45.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "earth",
+    "beautiful"
+  ],
+  "author": "Aaron O'Mullan <aaron.omullan@gmail.com>",
+  "license": "MIT"
+}
